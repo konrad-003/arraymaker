@@ -1,0 +1,21 @@
+{
+    "name": "konrad/arraymaker",
+    "description": "PHP Array package for generating Array",
+    "type": "library",
+    "require": {
+        "voku/arrayy": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Konrad\\Arraymaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "konrad-003",
+            "email": "konradambokile@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
