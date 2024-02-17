@@ -1,3 +1,3 @@
 # Konrad Array Maker
 
-### this package 
+### this package welcome for contribution
